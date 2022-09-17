@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    background: url('assets/Fundo.jpg') #121214 no-repeat top center;
+    background-size: 100% auto;
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    height: calc(120px + 32px);
+}
+
+header div img {
+    background-image: linear-gradient(90deg, #40e9ff 0%, #08adad 50.52%, #0077ff 100%);
+    position: center top;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    padding: 4px;
+    transition: transform .3s;
+}
+
+header div img:hover {
+    transform: scale(1.1) rotate(-0.05turn);
+}
+
+main {
+    display: grid;
+    max-width: 580px;
+    width: 90%;
+    margin: auto;
+}
+
+section {
+    background-image: linear-gradient(90deg, #40e9ff 0%, #08adad 50.52%, #0077ff 100%);
+    border-radius: 12px;
+    margin-bottom: 24px;
+    padding-top: 4px;
+
+}
+
+section div {
+    background-color: #2A2634;
+    border-radius: 8px;
+    height: 101%;
+}
+
+section h2 {
+    color: #FFFFFF;
+    padding: 24px 0 0 32px;
+}
+
+section p {
+    color: #A1A1AA;
+    padding: 8px 0 24px 32px;
+}
+
+section ul {
+    display: flex;
+    margin: 0 0 32px 32px;
+    gap: 1em;
+}
+
+section ul li {
+    transition: transform .3s;
+}
+
+section ul li:hover {
+    transform: scale(1.1);
+}
+
+section #gamesList li img {
+    width: 90px;
+    border-radius: 8px;
+}
+
+section ul#channelList li img {
+    width: 70px;
+    border: 1px solid #443E54;
+    border-radius: 50%;
+}
+
+svg {
+    stroke: rgb(255, 255, 255);
+}
+
+svg {
+    fill: white;
+}
+
+/* Swiper */
+
+div.swiper {
+    height: 135px;
+}
+
+.swiper {
+    width: 90%;
+    max-width: 580px;
+}
+
+.swiper-slide {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Tela de no máximo  700px */
+
+@media (max-width: 700px) {
+    main {
+        display: grid;
+        justify-content: center;
+        margin: auto;
+    }
+    section {
+        width: 70%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
