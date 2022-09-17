@@ -27,7 +27,7 @@ Para ver a página na web, clique [aqui](https://deivisondelmiro.github.io/nlw-e
 
 ## 🖋️ Diferenças do original
 Para diferenciar um pouco do projeto inicial, foi feita uma pequena mudança nas cores das caixas de fundo das section e foto de perfil, e cor do background.
-Além disso, foi adicionado uma biblioteca (Swiper) JavaScript, para que houvesse um scroll dentro de cada seção e que ao ser scrolado, ou uma das setas de cada seção fosse acionada, as imagens se movessem para a esquerda ou direita, e assim o fluxo de uso melhorasse para o usuário e esteticamente mais agradável de olhar, e para que as imagens não ficassem em diferentes linhas, formando um grande bloco.
+Além disso, foi adicionado uma biblioteca (Swiper) JavaScript, para que houvesse um scroll dentro de cada seção e que ao ser scrollado, ou uma das setas de cada seção fosse acionada, as imagens se movessem para a esquerda ou direita, e assim o fluxo de uso melhorasse para o usuário e esteticamente mais agradável de olhar, e para que as imagens não ficassem em diferentes linhas, formando um grande bloco.
 
 ## 📞 Contato
 E-mail: deivisondelmirodasilva@gmail.com
