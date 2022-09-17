@@ -1,14 +1,21 @@
-# Next Level Week (eSports) - NLW 9
+# Next Level Week (eSports) - NLW 9 - Trilha Explorer
 
-![preview](./.github/preview)
+Projeto desenvolvido a partir do evento Next Level Week da Rocketseat.
+Projeto com o objetivo de mostrar os jogos e streamers favoritos do usuário!
 
-> Trilha Explorer
+> Desktop
+![preview](./.github/preview-desktop.png)
 
-Projeto desenvolvido a partir do evento Next Level Week da Rocketseat. Projeto com o objetivo de mostrar os jogos e streamers favoritos do usuário!
+> Mobile
+> 
+![preview](./.github/preview-mobile.png)
 
-[Cliqu aqui para acessar](https://deivisondelmiro.github.io/nlw-esports-explorer)
 
-## Tecnologias
+## Acesso ao Projeto
+
+[Clique aqui para acessar](https://deivisondelmiro.github.io/nlw-esports-explorer)
+
+## 🛠️ Tecnologias
 
 - HTML
 - CSS
